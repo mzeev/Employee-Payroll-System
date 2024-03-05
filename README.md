@@ -2,7 +2,9 @@
 The Employee Management System is a Java-based project designed to efficiently manage employees' data, salary, and allowances. It aims to automate the employee management process and minimize manual work for the HR department. The project utilizes SQLite database for storing employee data and NetBeans as the Integrated Development Environment (IDE).
 
 # Demo Video
-[![here is the quick demonstration of how the video works]()](https://drive.google.com/file/d/1Bd9EhJU2kUVreACb3yHO1EwYfnGlm0ss/view?usp=drivesdk)
+
+
+https://github.com/mzeev/Employee-Payroll-System/assets/138986713/d73caae7-2163-492a-bbee-31cfc66795ec
 
 
 
